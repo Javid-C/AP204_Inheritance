@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\bin\Debug\netcoreapp3.1\AP204_Inheritance.exe
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\bin\Debug\netcoreapp3.1\AP204_Inheritance.deps.json
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\bin\Debug\netcoreapp3.1\AP204_Inheritance.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\bin\Debug\netcoreapp3.1\AP204_Inheritance.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\bin\Debug\netcoreapp3.1\AP204_Inheritance.dll
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\bin\Debug\netcoreapp3.1\AP204_Inheritance.pdb
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.dll
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.pdb
+C:\Users\Lenovo\source\repos\AP204_Inheritance\AP204_Inheritance\obj\Debug\netcoreapp3.1\AP204_Inheritance.genruntimeconfig.cache
